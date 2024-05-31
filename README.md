@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Diana 👩🏼‍💻
 
-<!--
-**dianalokada/dianalokada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Developer who loves working with others and is passionate about building products to solve real-world problems. 
 
-Here are some ideas to get you started:
+Currently building AI products and discovering Web3 on-chain world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧚‍♀️ Skills
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+## ☁️ Technologies & Tools
+
+- **Frontend:** TypeScript, JavaScript, Slodity, React, Next.js, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Tools:** Docker, Postman
+
+## ✨ How to reach me
+
+- [LinkedIn](https://www.linkedin.com/in/diana-alokhina)
+- [Twitter](https://twitter.com/dianalokada)
+
+🪩💗 From [dianalokada](https://github.com/dianalokada)
+
