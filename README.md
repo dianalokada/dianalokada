@@ -16,7 +16,7 @@ Currently building AI products and discovering Web3 on-chain world.
 
 ## ☁️ Technologies & Tools
 
-- **Frontend:** TypeScript, JavaScript, Slodity, React, Next.js, Tailwind CSS
+- **Frontend:** TypeScript, JavaScript, Solidity, React, Next.js, Tailwind CSS
 - **Backend:** Node.js, Express.js
 - **Tools:** Docker, Postman
 
