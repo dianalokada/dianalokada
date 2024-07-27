@@ -1,6 +1,9 @@
 # Hi, I'm Diana 👩🏼‍💻
 
-I am a Software Developer who loves working with others and is passionate about building products to solve real-world problems. I also enjoy creating educational content to help developers in their learning journey.
+I am a Software Developer who loves working with others and is passionate about building products to solve real-world problems. 
+
+I also enjoy creating educational content to help developers in their learning journey.
+
 My current passions lie around Web3 on-chain world and AI.
 
 ## 🧚‍♀️ Skills
