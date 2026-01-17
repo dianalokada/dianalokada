@@ -1,11 +1,5 @@
 # Hi, I'm Diana 👩🏼‍💻
 
-I am a Software Developer who loves working with others and is passionate about building products to solve real-world problems. 
-
-I enjoy exploring new technologies and frameworks, as well as creating educational content to share my learnings.
-
-My current passions lie around Web3⛓️ world and AI.
-
 ## 🧚‍♀️ Skills
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
